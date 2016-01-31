@@ -256,14 +256,14 @@ body {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 200px;
-  height: 230px;
+  width: 180px;
+  height: 211px;
   background-image: url("images/Meisje_met_de_parel.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 200px 230px;
-  -moz-background-size: 200px 230px;
-  background-size: 200px 230px;
+  -webkit-background-size: 180px 211px;
+  -moz-background-size: 180px 211px;
+  background-size: 180px 211px;
 }
 .main-body {
   margin-top: -60px;
@@ -360,7 +360,7 @@ body {
 #header-title .subtitle {
   font-size: 16px;
   font-style: italic;
-  line-height: 240px;
+  line-height: 221px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -1515,11 +1515,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 160px;
-  height: 184px;
-  -webkit-background-size: 160px 184px;
-  -moz-background-size: 160px 184px;
-  background-size: 160px 184px;
+  width: 144px;
+  height: 168.8px;
+  -webkit-background-size: 144px 168.8px;
+  -moz-background-size: 144px 168.8px;
+  background-size: 144px 168.8px;
 }
 i.icon {
   display: inline-block;
